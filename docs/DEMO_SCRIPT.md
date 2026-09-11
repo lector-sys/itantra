@@ -39,4 +39,4 @@ Total: 6–8 minutes. Two phones (or phone + emulator), airplane mode throughout
 
 ## Screens
 
-`docs/screenshots/1-talk.png`, `2-listen.png`, `3-connect.png` (live metrics + CSV export visible).
+`docs/screenshots/talk.png`, `listen.png`, `link.png` (live metrics + CSV export visible), `packs.png`.
